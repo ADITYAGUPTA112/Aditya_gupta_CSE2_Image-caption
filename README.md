@@ -1,2 +1,5 @@
-# Aditya_gupta_CSE2_Image-caption
-group member eefa fatima , aditya tariyal and abhinav .A group number G17 sec 2
+# Image-Captioning
+
+HuggingFace Space: https://huggingface.co/spaces/pritish/Image-Captioning
+
+![image](https://user-images.githubusercontent.com/55872694/218245040-fea19824-c082-47c1-bc21-0b814e61cc9a.png)
